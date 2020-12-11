@@ -112,7 +112,7 @@ body.top { background: #f5f6f7; }
 .download .appname1 {  margin-bottom: 20px;}
 .download .appname2 {  margin-bottom: 20px;}
 .download .appname1  img{  border-radius: 13px; width: 190%; height: 190%; margin-left: 100%; bottom: 42%;}
-.download .appname2  img{  border-radius: 30px; width: 42%; height: 108%; margin-left:20%; }
+.download .appname2  img{  border-radius: 30px; width: 42%; height: 108%; margin-left:15%; }
 
 /* 他のダウンロードアイコン部分 */
 .other-download {display: flex; text-align: center; justify-content: center; margin-top: 10%;}
@@ -124,7 +124,7 @@ body.top { background: #f5f6f7; }
 /* スマホ画面の画像 */
 .kv ul {  justify-content: center; width:100%; margin: 0 auto;}
 .kv ul li { position: relative; }
-.kv ul li:nth-of-type(1) img {  width: 60%;   }
+.kv ul li:nth-of-type(1) img {  width: 55%;   }
 .kv ul li a { display: inline-block; }
 
 /* イントロ部分 */
